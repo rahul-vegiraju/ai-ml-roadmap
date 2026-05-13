@@ -20,3 +20,16 @@ def main():
     print(convert(x))
 
 main()
+
+
+
+# def convert(text):
+#     text = text.replace(":)", "🙂")
+#     text = text.replace(":(", "🙁")
+#     return text
+
+# def main():
+#     x = input("Enter the string: ")
+#     print(convert(x))
+
+# main()
