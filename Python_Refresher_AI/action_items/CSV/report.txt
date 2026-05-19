@@ -1,0 +1,6 @@
+Sales Report
+------------
+Total Sales: $1000.00
+Average Sale: $200.00
+Highest Sale: $300.00
+Top Person: Mike

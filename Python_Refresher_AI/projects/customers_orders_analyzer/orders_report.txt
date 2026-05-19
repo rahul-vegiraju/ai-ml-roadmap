@@ -1,0 +1,21 @@
+Customer Orders Report
+----------------------
+Total Revenue: $2105.00
+Total Orders: 7
+
+Top Products by Revenue:
+- Laptop: $1200.00
+- Chair: $450.00
+- Desk: $300.00
+- Keyboard: $80.00
+- Mouse: $75.00
+
+Top Customers by Spending:
+- Rahul: $1280.00
+- John: $350.00
+- Mike: $300.00
+- Sara: $175.00
+
+Category Totals:
+- Electronics: $1355.00
+- Furniture: $750.00
